@@ -1,11 +1,11 @@
 # Cubase-French-Azerty-Shortcuts
-*Raccourcis recommandés pour produire de la musique électronique sous macOS avec [Cubase](https://fr.wikipedia.org/wiki/Cubase) et un clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français :*
+*Raccourcis recommandés pour produire de la musique électronique sous macOS avec <a href="https://fr.wikipedia.org/wiki/Cubase" target="_blank">Cubase</a> et un clavier <a href="https://fr.wikipedia.org/wiki/AZERTY" target="_blank">AZERTY</a> français :*
 
-https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
+<a href="https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing" target="_blank">https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing</a>
 
 _Pourquoi faire ?_
 
-Cubase est un véritable casse-tête pour les débutants, nécessitant de longues sessions de personnalisation avant de pouvoir être utilisé de manière créative (j’aurais aimé écrire « avant de pouvoir être jouée comme un instrument de musique », mais ne rêvons pas, l’industrie musicale informatique est très loin du niveau de compétence des luthiers en matière d’ergonomie et d’UX/UI). L’une des raisons est que ses développeurs, probablement par ignorance, ne savent pas faire de choix, ce qui constitue en soi une [mauvaise pratique](https://www.joelonsoftware.com/2000/04/12/choices/).
+Cubase est un véritable casse-tête pour les débutants, nécessitant de longues sessions de personnalisation avant de pouvoir être utilisé de manière créative (j’aurais aimé écrire « avant de pouvoir être jouée comme un instrument de musique », mais ne rêvons pas, l’industrie musicale informatique est très loin du niveau de compétence des luthiers en matière d’ergonomie et d’UX/UI). L’une des raisons est que ses développeurs, probablement par ignorance, ne savent pas faire de choix, ce qui constitue en soi une <a href="https://www.joelonsoftware.com/2000/04/12/choices/" target="_blank">mauvaise pratique</a>.
 
 Afin d’aider mes étudiants, j’ai réuni dans ce document Google Sheets les raccourcis clavier que je recommande pour la production musicale, dans n’importe quel genre de house, techno, garage ou bass. Il contient deux tableaux accessibles via les onglets en bas à gauche : 
 
