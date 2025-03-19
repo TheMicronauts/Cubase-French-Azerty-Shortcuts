@@ -17,4 +17,4 @@ Cubase est un véritable casse-tête pour les débutants, nécessitant de longue
 
 _Pourquoi ne pas simplement recommander Ableton Live ?_ 
 
-D’abord, tout le monde utilise Live aujourd’hui, or un artiste ne doit pas faire comme tout le monde. Surtout, Cubase est malheureusement le seul DAW qui permet d’écrire une partition MIDI avec un degré de contrôle quasi total et qui donne accès à toutes les subtilités de ce langage.
+À CHAQUE FOIS que je dis que j’utilise Cubase, on me demande pourquoi pas Live. D’abord, tout le monde utilise Live aujourd’hui, or un artiste ne doit pas faire comme tout le monde. Surtout, Cubase est malheureusement le seul DAW qui permet d’écrire une partition MIDI avec un degré de contrôle quasi total et qui donne accès à toutes les subtilités de ce langage.
