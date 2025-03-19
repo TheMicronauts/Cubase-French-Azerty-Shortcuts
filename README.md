@@ -11,6 +11,6 @@ Afin d’aider mes étudiants, j’ai réuni dans ce document Google Sheets les 
 
 1- Le premier tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il liste tous les raccourcis dans l’ordre du clavier et groupés par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
-2- Le deuxième tableau, _Fenêtre Key Commands_, est optimisé pour la saisie. Il reproduit la fenêtre _Key Commands_ de Cubase, son ordre et la façon dont les raccourcis y sont notés. La deuxième ligne sert de légende.
+2- Le deuxième tableau, _Fenêtre Key Commands_, est optimisé pour la saisie. Il reproduit la fenêtre _Key Commands_ de Cubase, son ordre et la façon dont les raccourcis y sont notés. Sa deuxième ligne sert de légende.
 
 P.-S. : Pourquoi ne pas simplement recommander Ableton Live ? D’abord, tout le monde utilise Live or un artiste ne doit pas faire comme tout le monde. Surtout, Cubase est malheureusement le seul DAW qui permet d’écrire une partition MIDI avec un degré de contrôle quasi total et qui donne accès à toutes les subtilités de ce langage.
