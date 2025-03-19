@@ -26,7 +26,7 @@ Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, 
 
 _Pourquoi faire ?_
 
-Cubase est un véritable casse-tête pour les débutants, nécessitant de longues sessions de personnalisation avant de pouvoir être utilisé de manière créative (j’aurais aimé écrire « être joué comme un instrument de musique », mais ne rêvons pas, l’industrie informatique est très loin du niveau de compétence des luthiers en matière d’ergonomie et d’UX/UI). L’une des raisons est que ses développeurs ne savent pas faire de choix, probablement par ignorance, ce qui constitue en soi une [mauvaise pratique](https://www.joelonsoftware.com/2000/04/12/choices/). 
+Cubase est devenu un véritable casse-tête pour les débutants, nécessitant de longues sessions de personnalisation avant de pouvoir être utilisé de manière créative (j’aurais aimé écrire « être joué comme un instrument de musique », mais ne rêvons pas, l’industrie informatique est très loin du niveau de compétence des luthiers en matière d’ergonomie et d’UX/UI). L’une des raisons est que ses développeurs ne savent pas faire de choix, probablement par ignorance, ce qui constitue en soi une [mauvaise pratique](https://www.joelonsoftware.com/2000/04/12/choices/). 
 
 _Pourquoi ne pas simplement recommander Ableton Live ?_ 
 
