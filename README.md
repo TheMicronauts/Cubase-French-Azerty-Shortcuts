@@ -1,5 +1,5 @@
 # Cubase-French-Azerty-Shortcuts
-## Raccourcis recommandés pour produire de la musique électronique, avec [Cubase](https://fr.wikipedia.org/wiki/Cubase) et un clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français sous macOS
+## Raccourcis recommandés pour produire de la musique électronique, avec [Cubase](https://fr.wikipedia.org/wiki/Cubase) et un clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français, sous macOS
 
 Afin d’aider mes étudiants, j’ai réuni dans ce document Google Sheets les raccourcis clavier que je recommande pour produire n’importe quel genre de house, techno, garage ou bass avec Cubase : 
 
@@ -19,7 +19,7 @@ Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, 
 
 - Glisser-déposer Cubase-French-Azerty-Shortcuts.xml dans le sous-dossier      
   ~/Library/Preferences/Cubase xx.x/Presets/KeyCommands/       
-  (où ~ indique l’arborescence jusqu’au dossier _Home_ et où xx.x correspond à la version de Cubase)
+  (où ~ indique l’arborescence jusqu’au dossier _Home_ et où xx correspond à la version de Cubase)
 
 - Sélectionner le Preset _Cubase-French-Azerty-Shortcuts_ dans la fenêtre _Key Commands_ de Cubase
 
