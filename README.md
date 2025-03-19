@@ -5,7 +5,7 @@ https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCG
 
 _Pourquoi faire ?_
 
-Cubase est un véritable casse-tête pour les débutants, nécessitant de longues sessions de personnalisation avant de pouvoir être utilisé de manière créative (j’aurais aimé écrire « avant de pouvoir être jouée comme un instrument de musique », mais ne rêvons pas, l’industrie musicale informatique est très loin du niveau de compétence des luthiers en matière d’ergonomie et d’UX/UI). L’une des raisons est que ses développeurs ne savent pas faire de choix, probablement par ignorance, ce qui constitue en soi une [mauvaise pratique](https://www.joelonsoftware.com/2000/04/12/choices/).
+Cubase est un véritable casse-tête pour les débutants, nécessitant de longues sessions de personnalisation avant de pouvoir être utilisé de manière créative (j’aurais aimé écrire « avant de pouvoir être joué comme un instrument de musique », mais ne rêvons pas, l’industrie musicale informatique est très loin du niveau de compétence des luthiers en matière d’ergonomie et d’UX/UI). L’une des raisons est que ses développeurs ne savent pas faire de choix, probablement par ignorance, ce qui constitue en soi une [mauvaise pratique](https://www.joelonsoftware.com/2000/04/12/choices/).
 
 Afin d’aider mes étudiants, j’ai réuni dans ce document Google Sheets les raccourcis clavier que je recommande pour la production musicale, dans n’importe quel genre de house, techno, garage ou bass. Il contient deux tableaux accessibles via les onglets en bas à gauche : 
 
