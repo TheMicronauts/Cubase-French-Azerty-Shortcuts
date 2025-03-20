@@ -22,7 +22,7 @@ Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, 
 
 - Sélectionner le Preset _Cubase-French-Azerty-Shortcuts_ dans la fenêtre _Key Commands_ de Cubase
 
-Chaque nouvelle version de Cubase ajoute de nouveaux raccourcis clavier. Le fichier XML a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets en sont absents. Ils devront être ajoutés manuellement le cas échéant.
+Chaque nouvelle version de Cubase ajoute de nouveaux raccourcis clavier. Le fichier XML a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets sont absents du fichier. Ils devront être ajoutés manuellement le cas échéant.
 
 Le fichier XML peut aussi être importé dans les versions antérieures. Les raccourcis clavier non pris en charge sont simplement ignorés (testé avec Cubase 6.5 et 10).
 
