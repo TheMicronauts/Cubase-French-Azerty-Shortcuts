@@ -1,7 +1,7 @@
 # Cubase-French-Azerty-Shortcuts
 ## Raccourcis recommandés pour produire de la musique électronique avec [Cubase](https://fr.wikipedia.org/wiki/Cubase) et un clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français sous macOS
 
-Afin d’aider mes étudiants, j’ai réuni dans ce document Google Sheets les raccourcis clavier que je recommande pour produire n’importe quel genre de house, techno, garage ou bass avec Cubase : 
+J’ai réuni dans ce document Google Sheets les raccourcis clavier que je recommande pour produire avec Cubase de la musique életronique (house, techno, garage, bass, etc.) : 
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
 
@@ -21,13 +21,3 @@ Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, 
   (où ~ indique l’arborescence jusqu’au dossier _Home_ et où xx correspond à la version de Cubase)
 
 - Sélectionner le Preset _Cubase-French-Azerty-Shortcuts_ dans la fenêtre _Key Commands_ de Cubase
-
----
-
-_Pourquoi faire ?_
-
-Cubase est devenu un véritable casse-tête pour les débutants, nécessitant de longues sessions de personnalisation avant de pouvoir être utilisé de manière créative (j’aurais aimé écrire « être joué comme un instrument de musique », mais ne rêvons pas, l’industrie informatique est très loin du niveau de compétence des luthiers en matière d’ergonomie et d’UX/UI). L’une des raisons est que ses développeurs ne savent pas faire de choix, probablement par ignorance, ce qui constitue en soi une [mauvaise pratique](https://www.joelonsoftware.com/2000/04/12/choices/). 
-
-_Pourquoi ne pas simplement recommander Ableton Live ?_ 
-
-À CHAQUE FOIS que je dis que je suis sur Cubase, on me demande pourquoi pas Live. D’abord, tout le monde utilise Live, or un artiste n’est pas censé faire comme tout le monde. Surtout, Cubase est malheureusement le seul DAW qui permet d’écrire une partition MIDI avec un degré de contrôle quasi total et qui donne accès à toutes les subtilités de ce langage.
