@@ -1,7 +1,7 @@
 # Cubase-French-Azerty-Shortcuts
 ## Raccourcis clavier de [Cubase](https://fr.wikipedia.org/wiki/Cubase) pour produire de la musique électronique avec un clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français sous macOS
 
-J’ai réuni dans ce document Google Sheets les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.) : 
+Cubase propose des centaines de raccourcis clavier qui sont personnalisables. J’ai réuni dans ce document Google Sheets ceux que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.) : 
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
 
@@ -13,7 +13,7 @@ Il contient deux tableaux, accessibles via les onglets en bas à gauche :
 
 ---
 
-Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, sans devoir les saisir un par un ; il faut pour cela :
+Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, sans devoir les saisir un par un. Il faut pour cela :
 
 - [Télécharger le fichier Cubase-French-Azerty-Shortcuts.xml](https://github.com/TheMicronauts/Cubase-French-Azerty-Shortcuts/releases/download/v1.0.0/Cubase-French-Azerty-Shortcuts.xml)
 
@@ -21,3 +21,12 @@ Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, 
   (où ~ indique l’arborescence jusqu’au dossier _Home_ et où xx correspond à la version de Cubase)
 
 - Sélectionner le Preset _Cubase-French-Azerty-Shortcuts_ dans la fenêtre _Key Commands_ de Cubase
+
+Chaque nouvelle version de Cubase ajoute de nouveaux raccourcis clavier. Le fichier XML a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets sont absents du fichier XML. Ils devront être ajoutés manuellement dans les versions où ils sont disponibles.
+
+Le fichier XML peut aussi être importé dans les versions antérieures. Dans ce cas, les raccourcis clavier non pris en charge sont simplement ignorés (testé avec Cubase 6.5).
+
+---
+
+Exemple de claviers considérés :
+
