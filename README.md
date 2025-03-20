@@ -28,5 +28,10 @@ Le fichier XML peut aussi être importé dans les versions antérieures. Dans ce
 
 ---
 
-Exemple de claviers considérés :
+Exemple de dispositions de touches considérées :
 
+![2025-03-20 11 07 31Autos](https://github.com/user-attachments/assets/1dee9a29-8ed2-4112-9f4e-ba61e4adce83)
+
+![2025-03-20 10 56 20](https://github.com/user-attachments/assets/6061b62f-f09e-4df9-8978-c6eb22e843cf)
+
+![2025-03-20 10 54 28](https://github.com/user-attachments/assets/43bf3ab7-0cbd-492a-819e-b44edfb27c13)
