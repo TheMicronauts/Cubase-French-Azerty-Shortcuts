@@ -15,9 +15,11 @@ Voici ceux que je recommande à mes étudiants pour produire de la musique élec
 
 ---
 
-Ce document Google Sheets les répertorie. Il contient deux tableaux, regroupant les mêmes raccourcis mais lmes présentant différemment, accessibles via les onglets en bas à gauche. 
+Ce document Google Sheets les répertorie.
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
+
+Il contient deux tableaux, regroupant les mêmes raccourcis mais présentés différemment, accessibles via les onglets en bas à gauche. 
 
 - Le premier tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il liste tous les raccourcis dans l’ordre du clavier et groupés par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
