@@ -50,35 +50,6 @@
 
 * Output and mix: for global control.
 
-## 4. Support the author
-
-我也是一个音乐制作人，欢迎关注网易云音乐：[羽翼深蓝](https://music.163.com/#/artist?id=12118139)
-
-[我的个人主页](https://www.bluewingsmusic.com/)（之后会推出其他的音频软件）
-
-I am also a music producer (Artist name: 羽翼深蓝 - BlueWings). Check out my music here:
-
-[Netease Music](https://music.163.com/#/artist?id=12118139)
-
-[Apple Music](https://music.apple.com/us/artist/%E7%BE%BD%E7%BF%BC%E6%B7%B1%E8%93%9D/1696577755)
-
-[Spotify](https://open.spotify.com/artist/0xi1eMyrrSXdZMX8n7Ilmt)
-
-[YouTube](https://www.youtube.com/@bluewings-music)
-
-[Other Softwares by Blue Wings Music](https://www.bluewingsmusic.com/)
-
-
-## 5. References
-
-5.1. A great example of using XML by [johnflynnjohnflynn](https://github.com/johnflynnjohnflynn/TestParameters02) to save presets to file example. I changed the code to save presets as mutiple files.
-
-5.2. [Diode Clipping algorithm](https://forum.juce.com/t/wave-digital-filter-wdf-with-juce/11227) from JUCE forum
-
-5.3. [Spectrum Analyser](https://github.com/adriannaziel/SpectrumAnalyser_et) by adriannaziel
-
-5.4. [SimpleEQ](https://github.com/matkatmusic/SimpleEQ) by matkatmusic
-
 ## 6. Update Notes
 
 ### 2025-7-3 (version 1.0.2)
