@@ -1,5 +1,5 @@
 # Cubase-French-Azerty-Shortcuts
-## Raccourcis clavier de [Cubase](https://fr.wikipedia.org/wiki/Cubase) recommandés, pour produire de la musique électronique, avec un clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français, sous macOS
+## Raccourcis clavier de [Cubase](https://fr.wikipedia.org/wiki/Cubase) recommandés pour produire de la musique électronique, avec un clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français sous macOS
 
 Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. 
 
