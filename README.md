@@ -3,7 +3,7 @@
 
 Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. 
 
-Mais depuis son reboot des années 2000, Cubase est « wonky », c’est à dire confus, incohérent, et inutilement compliqué. Manifestement, ses nouveaux architectes n’avaient pas la compréhension du processus de création musicale de l’équipe originale. 
+Mais depuis son reboot des années 2000, Cubase est « wonky » (confus), incohérent, et inutilement compliqué. Manifestement, ses nouveaux architectes n’avaient pas la compréhension du processus de création musicale de l’équipe originale. 
 
 Cette confusion, cette incohérence et ces complications inutiles se retrouvent dans la gestion des raccourcis clavier. Il y en a des centaines et ils sont personnalisables. Malgré cela, il en manque et beaucoup sont mal pensés. Quant aux configurations proposées en preset, elles font le service minimum.
 
