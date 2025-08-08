@@ -11,11 +11,13 @@ Dommage, car les raccourcis clavier, c’est ce qui permet de rapprocher cet out
 
 Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis adaptés change véritablement la vie.
 
-J’ai réuni dans ce document Google Sheets ceux que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.) : 
+Voici ceux que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.).
+
+---
+
+Ce document Google Sheets les répertorie. Il contient deux tableaux, regroupant les mêmes raccourcis mais lmes présentant différemment, accessibles via les onglets en bas à gauche. 
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
-
-Il contient deux tableaux, accessibles via les onglets en bas à gauche : 
 
 - Le premier tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il liste tous les raccourcis dans l’ordre du clavier et groupés par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
