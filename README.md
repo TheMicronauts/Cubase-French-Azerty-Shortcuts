@@ -1,7 +1,7 @@
 # Cubase-French-Azerty-Shortcuts
 ## Raccourcis clavier de [Cubase](https://fr.wikipedia.org/wiki/Cubase) pour clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français sous macOS
 
-Ce dépôt présente les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.). Ils sont disponibles sous forme de liste et de tableau dans un document Google Sheets, ainsi que dans un fichier xml qu’on peut importer dans le logiciel.
+Ce dépôt présente les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.). Ils sont disponibles sur un document Google Sheets et dans un fichier xml qu’on peut importer dans le logiciel.
 
 Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. Mais depuis son reboot des années 2000, Cubase est « wonky » (confus), incohérent, et inutilement compliqué. outil informatique lourd, capricieux, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
