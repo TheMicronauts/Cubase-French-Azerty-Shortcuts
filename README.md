@@ -9,7 +9,7 @@ Mais depuis son reboot des années 2000, Cubase est « wonky » (confus), incoh�
 
 Ces défauts se retrouvent dans la gestion des raccourcis clavier. Il y en a des centaines et ils sont personnalisables. Malgré cela, il en manque et beaucoup sont mal pensés. Quant aux configurations proposées en preset, elles font le service minimum.
 
-Pourtant, les raccourcis clavier permettent de rapprocher cet outil informatique lourd, capricieux, toujours en train d’essayer de capter notre attention comme un petit enfant impatient et dissipé, de l’idéal de l’instrument de musique, qui se fait oublier.
+Pourtant, les raccourcis clavier permettent de rapprocher cet outil informatique lourd, capricieux, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
 Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis adaptés change véritablement la vie.
 
