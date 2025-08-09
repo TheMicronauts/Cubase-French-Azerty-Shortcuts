@@ -3,13 +3,11 @@
 
 Ce dépôt présente les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.). Ils sont disponibles sous forme de liste et de tableau dans un document Google Sheets, ainsi que dans un fichier xml qu’on peut importer dans le logiciel.
 
-Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. 
-
-Mais depuis son reboot des années 2000, Cubase est « wonky » (confus), incohérent, et inutilement compliqué. Manifestement, ses nouveaux concepteurs n’avaient pas la compréhension du processus de création musicale de l’équipe originale. 
+Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. Mais depuis son reboot des années 2000, Cubase est « wonky » (confus), incohérent, et inutilement compliqué. outil informatique lourd, capricieux, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
 Ces défauts se retrouvent dans la gestion des raccourcis clavier. Il y en a des centaines et ils sont personnalisables. Malgré cela, il en manque et beaucoup sont mal pensés. Quant aux configurations proposées en preset, elles font le service minimum.
 
-Pourtant, les raccourcis clavier permettent de rapprocher cet outil informatique lourd, capricieux, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
+Pourtant, les raccourcis clavier permettent de rapprocher cet 
 
 Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis adaptés change véritablement la vie.
 
