@@ -13,11 +13,9 @@ Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis ad
 
 ---
 
-Ce document Google Sheets les répertorie.
+Ce document Google Sheets présente les raccourcis clavier sur deux tableaux, qui regroupent les mêmes raccourcis mais les présentent différemment, accessibles via les onglets en bas à gauche.
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
-
-Il contient deux tableaux, regroupant les mêmes raccourcis sous deux présentations différentes, accessibles via les onglets en bas à gauche. 
 
 - Le premier tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il liste tous les raccourcis dans l’ordre du clavier et groupés par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
