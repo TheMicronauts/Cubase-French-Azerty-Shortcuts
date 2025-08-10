@@ -1,15 +1,11 @@
 # Cubase-French-Azerty-Shortcuts
 ## Raccourcis clavier de [Cubase](https://fr.wikipedia.org/wiki/Cubase) pour clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français sous macOS
 
-Ce dépôt présente les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.). Ils sont disponibles sur un document Google Sheets et dans un fichier xml qu’on peut importer dans le logiciel.
+Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.). Ils sont disponibles via un document Google Sheets et via un fichier XML à importer dans le logiciel.
 
-Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. Mais depuis son reboot des années 2000, Cubase est « wonky » (confus), incohérent, et inutilement compliqué. outil informatique lourd, capricieux, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
+Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. Mais depuis son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAHits0B9oAWDtqgPcoOtUerZv4g8GsbgE8) ». Son interface mélange constamment musique horizontale et son vertical. Dit autrement : ce qui relève de l’art de la production musicale (écriture, programmation, enregistrement, automation) et ce qui relève de la technique du mixage (configuration, trajet du signal, balance, réglages statiques). En résulte un outil informatique lourd, capricieux, incohérent, inutilement compliqué, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
-Ces défauts se retrouvent dans la gestion des raccourcis clavier. Il y en a des centaines et ils sont personnalisables. Malgré cela, il en manque et beaucoup sont mal pensés. Quant aux configurations proposées en preset, elles font le service minimum.
-
-Pourtant, les raccourcis clavier permettent de rapprocher cet 
-
-Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis adaptés change véritablement la vie.
+Les raccourcis clavier sont un excellent moyen de contourner une interface récalcitrante, devenue un véritable champ de mines. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis adaptés change véritablement la vie.
 
 ---
 
