@@ -25,12 +25,12 @@ https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCG
 
 Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, sans devoir les saisir un par un :
 
-- [Télécharger le fichier Cubase-French-Azerty-Shortcuts.xml](https://github.com/TheMicronauts/Cubase-French-Azerty-Shortcuts/releases/download/v1.0.0/Cubase-French-Azerty-Shortcuts.xml)
+1. [Télécharger le fichier Cubase-French-Azerty-Shortcuts.xml](https://github.com/TheMicronauts/Cubase-French-Azerty-Shortcuts/releases/download/v1.0.0/Cubase-French-Azerty-Shortcuts.xml)
 
-- Glisser-déposer ce fichier dans le sous-dossier  ~/Library/Preferences/Cubase xx/Presets/KeyCommands/                
+2. Glisser-déposer ce fichier dans le sous-dossier  ~/Library/Preferences/Cubase xx/Presets/KeyCommands/                
   (où ~ indique l’arborescence jusqu’à votre dossier _Home_ et où xx correspond à votre version de Cubase)
 
-- Sélectionner le Preset _Cubase-French-Azerty-Shortcuts_ dans la fenêtre _Key Commands_ de Cubase
+3. Sélectionner le preset _Cubase-French-Azerty-Shortcuts_ dans la fenêtre _Key Commands_ de Cubase
 
 Chaque nouvelle version de Cubase ajoute de nouveaux raccourcis clavier. Le fichier XML a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets sont absents du fichier. Ils devront être ajoutés manuellement le cas échéant.
 
