@@ -7,9 +7,9 @@ Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supéri
 
 Dit autrement : son interface mélange constamment ce qui relève de l’art de la production musicale (écriture, programmation, enregistrement, automation, arrangement, gestion du temps) et ce qui relève de la technique du mixage (configuration, trajet du signal, état initial, réglages statiques, équilibre des fréquences). 
 
-En résulte un outil informatique lourd, capricieux, incohérent, simpliste et compliqué, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, simple et complexe, qui se fait oublier.
+En résulte un outil informatique lourd, capricieux, incohérent, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
-Les raccourcis clavier sont un excellent moyen de contourner une interface récalcitrante, devenue un véritable champ de mines. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis adaptés change véritablement la vie.
+Les raccourcis clavier sont un excellent moyen de contourner cette interface récalcitrante, devenue un véritable champ de mines. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
 
 ---
 
