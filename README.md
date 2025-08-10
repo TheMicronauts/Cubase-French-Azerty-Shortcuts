@@ -9,7 +9,7 @@ Dit autrement : son interface mélange constamment ce qui relève de l’art de 
 
 Il en résulte un outil informatique lourd, capricieux, incohérent, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
-Les raccourcis clavier sont un excellent moyen de contourner le champ de mines qu’est l’interface et de se rapprocher de l’instrument de musique. Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps d’en choisir, programmer et apprendre par cœur de mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
+Les raccourcis clavier sont un excellent moyen de contourner le champ de mines de l’interface, pour se rapprocher de l’instrument de musique. Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps d’en choisir, programmer et apprendre par cœur de mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
 
 ---
 
