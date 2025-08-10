@@ -13,7 +13,7 @@ Les raccourcis clavier sont un excellent moyen de contourner le champ de mines d
 
 ---
 
-Le document Google Sheets liste les raccourcis clavier sur deux tableaux aux présentations différentes, accessibles via les onglets en bas à gauche :
+Le document Google Sheets liste les raccourcis clavier dans deux tableaux aux présentations différentes, accessibles via les onglets en bas à gauche :
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
 
@@ -28,7 +28,7 @@ Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, 
 - [Télécharger le fichier Cubase-French-Azerty-Shortcuts.xml](https://github.com/TheMicronauts/Cubase-French-Azerty-Shortcuts/releases/download/v1.0.0/Cubase-French-Azerty-Shortcuts.xml)
 
 - Glisser-déposer ce fichier dans le sous-dossier `~/Library/Preferences/Cubase xx/Presets/KeyCommands/`                
-  (où `~` indique l’arborescence jusqu’à votre dossier _Home_ et où `xx` correspond à votre version de Cubase)
+  (où `~` indique le chemin jusqu’à votre dossier _Home_ et où `xx` correspond à votre version de Cubase)
 
 - Sélectionner le preset _Cubase-French-Azerty-Shortcuts_ dans la fenêtre _Key Commands_ de Cubase
 
