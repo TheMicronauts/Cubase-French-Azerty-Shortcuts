@@ -3,7 +3,9 @@
 
 Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique (house, techno, garage, bass, etc.). Ils sont disponibles via un document Google Sheets et via un fichier XML à importer dans le logiciel.
 
-Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. Mais depuis son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) ». Son interface mélange constamment musique horizontale et son vertical. Dit autrement : son interface mélange constamment ce qui relève de l’art de la production musicale (écriture, programmation, enregistrement, automation, arrangement, équilibre du temps) et ce qui relève de la technique du mixage (configuration, trajet du signal, réglages statiques, état initial, balance, équilibre des fréquences). 
+Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. Mais depuis son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) ». Son interface mélange constamment musique horizontale et son vertical. 
+
+Dit autrement : son interface mélange constamment ce qui relève de l’art de la production musicale (écriture, programmation, enregistrement, automation, arrangement, équilibre du temps) et ce qui relève de la technique du mixage (configuration, trajet du signal, état initial, réglages statiques, équilibre des fréquences). 
 
 En résulte un outil informatique lourd, capricieux, incohérent, inutilement compliqué, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
