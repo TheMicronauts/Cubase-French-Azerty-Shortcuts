@@ -9,7 +9,7 @@ Mais depuis son reboot des années 2000, ce séquenceur audionumérique est deve
 
 Il en résulte un outil informatique lourd, rigide, capricieux, incohérent, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
-Les raccourcis clavier sont un excellent moyen de contourner le champ de mines de l’interface, et de jouer de Cubase presque comme d’un instrument de musique. Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
+Les raccourcis clavier sont un excellent moyen de contourner le champ de mines de l’interface, et de jouer de Cubase presque comme d’un instrument de musique. Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt devrait vous mâcher le travail.
 
 ---
 
