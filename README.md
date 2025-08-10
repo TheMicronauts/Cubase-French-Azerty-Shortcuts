@@ -13,17 +13,17 @@ Les raccourcis clavier sont un excellent moyen de contourner le champ de mines d
 
 ---
 
-Le document Google Sheets présente les raccourcis clavier sur deux tableaux, qui regroupent les mêmes mais présentés différemment, accessibles via les onglets en bas à gauche :
+Le document Google Sheets liste les raccourcis clavier sur deux tableaux aux présentations différentes, accessibles via les onglets en bas à gauche :
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
 
-- Le premier tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il liste tous les raccourcis dans l’ordre du clavier et groupés par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
+- Le premier tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il reprend l’ordre du clavier et regroupe les raccourcis par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
 - Le deuxième tableau, _Fenêtre Key Commands_, est optimisé pour la saisie dans Cubase. Il reprend l’ordre de la fenêtre _Key Commands_ et la façon dont les raccourcis y sont notés. La deuxième ligne sert de légende.
 
 ---
 
-Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, sans devoir les saisir un par un. Il faut pour cela :
+Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, sans devoir les saisir un par un :
 
 - [Télécharger le fichier Cubase-French-Azerty-Shortcuts.xml](https://github.com/TheMicronauts/Cubase-French-Azerty-Shortcuts/releases/download/v1.0.0/Cubase-French-Azerty-Shortcuts.xml)
 
