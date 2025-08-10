@@ -27,8 +27,8 @@ Il est aussi possible d’importer dans Cubase tous ces raccourcis en une fois, 
 
 - [Télécharger le fichier Cubase-French-Azerty-Shortcuts.xml](https://github.com/TheMicronauts/Cubase-French-Azerty-Shortcuts/releases/download/v1.0.0/Cubase-French-Azerty-Shortcuts.xml)
 
-- Glisser-déposer ce fichier dans le sous-dossier  ~/Library/Preferences/Cubase xx/Presets/KeyCommands/                
-  (où ~ indique l’arborescence jusqu’à votre dossier _Home_ et où xx correspond à votre version de Cubase)
+- Glisser-déposer ce fichier dans le sous-dossier `~/Library/Preferences/Cubase xx/Presets/KeyCommands/`                
+  (où `~` indique l’arborescence jusqu’à votre dossier _Home_ et où `xx` correspond à votre version de Cubase)
 
 - Sélectionner le preset _Cubase-French-Azerty-Shortcuts_ dans la fenêtre _Key Commands_ de Cubase
 
