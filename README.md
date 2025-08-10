@@ -9,7 +9,7 @@ Dit autrement : son interface mélange constamment ce qui relève de l’art de 
 
 En résulte un outil informatique lourd, capricieux, incohérent, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
-Les raccourcis clavier sont un excellent moyen de contourner cette interface récalcitrante, devenue un véritable champ de mines. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
+Les raccourcis clavier sont un excellent moyen de contourner cette interface récalcitrante, devenue un véritable champ de mines. Prendre le temps d’en choisir, programmer et apprendre par cœur change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
 
 ---
 
