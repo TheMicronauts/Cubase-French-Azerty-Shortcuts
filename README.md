@@ -19,7 +19,7 @@ https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCG
 
 - Le premier tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il liste tous les raccourcis dans l’ordre du clavier et groupés par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
-- Le deuxième tableau, _Fenêtre Key Commands_, est optimisé pour la saisie dans Cubase. Il reproduit la fenêtre _Key Commands_, son ordre et la façon dont les raccourcis y sont notés. La deuxième ligne sert de légende.
+- Le deuxième tableau, _Fenêtre Key Commands_, est optimisé pour la saisie dans Cubase. Il reprend l’ordre de la fenêtre _Key Commands_ et la façon dont les raccourcis y sont notés. La deuxième ligne sert de légende.
 
 ---
 
