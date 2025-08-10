@@ -5,9 +5,9 @@ Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes ét
 
 Cubase a beaucoup de qualité, très complet et une gestion du MIDI bien supérieure à la concurrence. Mais depuis son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) ». Son interface mélange constamment musique horizontale et son vertical. 
 
-Dit autrement : son interface mélange constamment ce qui relève de l’art de la production musicale (écriture, programmation, enregistrement, automation, arrangement, équilibre du temps) et ce qui relève de la technique du mixage (configuration, trajet du signal, état initial, réglages statiques, équilibre des fréquences). 
+Dit autrement : son interface mélange constamment ce qui relève de l’art de la production musicale (écriture, programmation, enregistrement, automation, arrangement, gestion du temps) et ce qui relève de la technique du mixage (configuration, trajet du signal, état initial, réglages statiques, équilibre des fréquences). 
 
-En résulte un outil informatique lourd, capricieux, incohérent, inutilement compliqué, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
+En résulte un outil informatique lourd, capricieux, incohérent, simpliste et compliqué, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, simple et complexe, qui se fait oublier.
 
 Les raccourcis clavier sont un excellent moyen de contourner une interface récalcitrante, devenue un véritable champ de mines. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis adaptés change véritablement la vie.
 
