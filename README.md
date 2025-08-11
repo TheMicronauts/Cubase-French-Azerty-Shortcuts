@@ -42,7 +42,7 @@ Il est aussi possible d’importer dans Cubase tous ces raccourcis en une seule 
 
 Chaque nouvelle version de Cubase ajoute de nouvelles _Key Commands_, mais reste compatible avec les mêmes fichiers XML.
 
-Celui-ci a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets sont absents du fichier. Ils devront être ajoutés manuellement le cas échéant.
+Celui-ci a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets sont absents du fichier et devront être ajoutés manuellement le cas échéant.
 
 Le fichier XML peut aussi être importé dans les versions antérieures. Les raccourcis non pris en charge sont simplement ignorés (testé avec Cubase 6.5 et 10).
 
