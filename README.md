@@ -1,19 +1,25 @@
 # Cubase-French-Azerty-Shortcuts
 ## Raccourcis clavier de [Cubase](https://fr.wikipedia.org/wiki/Cubase) pour clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) français sous macOS
 
-Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique. Ils sont disponibles sur un document Google Sheets à consulter et dans un fichier XML à importer dans le logiciel.
+### Introduction
+
+Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique. Ils sont disponibles sur un document Google Sheets à consulter et dans un fichier de preset XML à importer dans le logiciel.
 
 Cubase a beaucoup de qualités : très complet, une compensation de la latence et une gestion du MIDI bien supérieures à la concurrence. 
 
-Mais depuis son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) » : son interface mélange musique horizontale et son vertical — autrement dit, l’art de la production musicale et la technique du mixage ; ce qui s’écrit et s’enregistre sur une timeline et ce qui se règle et se visualise verticalement ; la gestion du temps et celle de la balance.
+Mais depuis son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) » : son interface mélange musique horizontale et son vertical – l’art de la production musicale et la technique du mixage (c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance, via ce qui se règle et se visualise verticalement).
 
 Il en résulte un outil informatique lourd, rigide, capricieux, incohérent, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
-Les raccourcis clavier sont un excellent moyen de contourner le champ de mines de l’interface, et de jouer de Cubase presque comme d’un instrument de musique. Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
+Les raccourcis clavier sont un excellent moyen de contourner le champ de mines de l’interface, et de jouer de Cubase presque comme d’un instrument de musique. 
+
+Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
 
 ---
 
-Le document Google Sheets liste les raccourcis clavier dans deux tableaux aux présentations différentes, accessibles via les onglets en bas à gauche :
+### Tableaux
+
+Ce document Google Sheets liste les raccourcis clavier dans deux tableaux aux présentations différentes, accessibles via les onglets en bas à gauche :
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
 
@@ -22,6 +28,8 @@ https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCG
 - Le deuxième tableau, _Fenêtre Key Commands_, est optimisé pour la saisie dans Cubase. Il reprend l’ordre de la fenêtre _Key Commands_ et la façon dont les raccourcis y sont notés. La deuxième ligne sert de légende.
 
 ---
+
+### Preset
 
 Il est aussi possible d’importer dans Cubase tous ces raccourcis en une seule fois, sans devoir les saisir un par un :
 
@@ -38,7 +46,9 @@ Le fichier XML peut aussi être importé dans les versions antérieures. Les rac
 
 ---
 
-Exemple de dispositions de touches considérées :
+### Claviers
+
+Exemples de dispositions de touches considérées :
 
 ![2025-03-20 11 07 31Autos](https://github.com/user-attachments/assets/1dee9a29-8ed2-4112-9f4e-ba61e4adce83)
 
