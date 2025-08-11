@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour la production de musique électronique. Vous les trouverez dans des tableaux Google Sheets et en preset XML prêt à être importé dans le logiciel.
+Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour la production de musique électronique (« _Key Commands_ »). Vous les trouverez dans des tableaux Google Sheets et en preset XML prêt à être importé dans le logiciel.
 
 Cubase a beaucoup de qualités : très complet, une gestion du MIDI bien supérieure à la concurrence, une précision de placement au sample près, une compensation de la latence fiable.
 
@@ -40,7 +40,9 @@ Il est aussi possible d’importer dans Cubase tous ces raccourcis en une seule 
 
 - Sélectionner le preset _Cubase-French-Azerty-Shortcuts_ dans la fenêtre _Key Commands_ de Cubase
 
-Chaque nouvelle version de Cubase ajoute de nouveaux raccourcis clavier. Le fichier XML a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets sont absents du fichier. Ils devront être ajoutés manuellement le cas échéant.
+Chaque nouvelle version de Cubase ajoute de nouvelles _Key Commands_, mais reste compatible avec les mêmes fichiers XML.
+
+Celui-ci a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets sont absents du fichier. Ils devront être ajoutés manuellement le cas échéant.
 
 Le fichier XML peut aussi être importé dans les versions antérieures. Les raccourcis non pris en charge sont simplement ignorés (testé avec Cubase 6.5 et 10).
 
