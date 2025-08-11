@@ -5,13 +5,13 @@
 
 Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour la production de musique électronique. Vous les trouverez dans des tableaux Google Sheets et en preset XML prêt à être importé dans le logiciel.
 
-Cubase a beaucoup de qualités : très complet, une précision de placement au sample près, une compensation de la latence fiable, une gestion du MIDI bien supérieure à la concurrence.
+Cubase a beaucoup de qualités : très complet, une gestion du MIDI bien supérieure à la concurrence, une précision de placement au sample près, une compensation de la latence fiable.
 
 Mais depuis son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) » : son interface mélange musique horizontale et son vertical – l’art de la production musicale et la technique du mixage (c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance, via ce qui se règle et se visualise verticalement).
 
 Il en résulte un outil informatique lourd, rigide, capricieux, incohérent, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
-Les raccourcis clavier sont un excellent moyen de rapprocher l’outil de l’instrument : ils contournent le champ de mines de l’interface et permettent presque de jouer de Cubase.
+Les raccourcis clavier sont un excellent moyen de rapprocher l’outil de l’instrument.
 
 Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
 
