@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour produire de la musique électronique. Ils sont disponibles sur un document Google Sheets à consulter et dans un fichier de preset XML à importer dans le logiciel.
+Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour la production de musique électronique. Vous les trouverez dans des tableaux Google Sheets et en preset XML prêt à être importé dans le logiciel.
 
 Cubase a beaucoup de qualités : très complet, une compensation de la latence et une gestion du MIDI bien supérieures à la concurrence. 
 
@@ -11,7 +11,7 @@ Mais depuis son reboot des années 2000, ce séquenceur audionumérique est deve
 
 Il en résulte un outil informatique lourd, rigide, capricieux, incohérent, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
-Les raccourcis clavier sont un excellent moyen de contourner le champ de mines de l’interface, et de jouer de Cubase presque comme d’un instrument de musique. 
+Les raccourcis clavier sont un excellent moyen de rapprocher l’outil de l’instrument : ils contournent le champ de mines de l’interface et permettent presque de jouer de Cubase.
 
 Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
 
@@ -46,7 +46,7 @@ Le fichier XML peut aussi être importé dans les versions antérieures. Les rac
 
 ---
 
-### Claviers
+### Références
 
 Exemples de dispositions de touches considérées :
 
