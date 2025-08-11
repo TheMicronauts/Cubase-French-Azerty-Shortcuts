@@ -5,7 +5,7 @@
 
 Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour la production de musique électronique. Vous les trouverez dans des tableaux Google Sheets et en preset XML prêt à être importé dans le logiciel.
 
-Cubase a beaucoup de qualités : très complet, une compensation de la latence et une gestion du MIDI bien supérieures à la concurrence. 
+Cubase a beaucoup de qualités : très complet, une précision de placement au sample près, une compensation de la latence fiable, une gestion du MIDI bien supérieure à la concurrence.
 
 Mais depuis son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) » : son interface mélange musique horizontale et son vertical – l’art de la production musicale et la technique du mixage (c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance, via ce qui se règle et se visualise verticalement).
 
