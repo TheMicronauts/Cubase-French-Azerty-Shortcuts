@@ -21,7 +21,7 @@ Malheureusement, les presets proposés par Steinberg font le service minimum. Pr
 
 Deux tableaux listent les raccourcis clavier avec des présentations différentes.
 
-- Le premier tableau, _Fenêtre Key Commands_, est optimisé pour la saisie dans Cubase. Il reprend l’ordre de la fenêtre _Key Commands_ et la façon dont les raccourcis y sont notés. La deuxième ligne sert de légende.
+- Le premier tableau, _Fenêtre Key Commands_, est optimisé pour la saisie dans Cubase. Il reprend l’ordre de la fenêtre _Key Commands_ et la façon dont les raccourcis y sont notés. La légende est sur la deuxième ligne.
 
 - Le deuxième tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il reprend l’ordre du clavier et regroupe les raccourcis par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
