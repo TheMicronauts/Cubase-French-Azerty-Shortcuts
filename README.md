@@ -19,7 +19,7 @@ Malheureusement, les presets proposés par Steinberg font le service minimum. Pr
 
 ### Tableaux
 
-Deux tableaux listent les raccourcis clavier avec présentations différentes.
+Deux tableaux listent les raccourcis clavier avec des présentations différentes.
 
 - Le premier tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il reprend l’ordre du clavier et regroupe les raccourcis par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
