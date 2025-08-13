@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCG
 
 ### Preset
 
-Il est possible d’importer dans Cubase tous ces raccourcis en une fois, sans devoir les saisir un par un :
+Il est possible d’importer dans Cubase tous ces raccourcis en une fois, sans devoir les saisir un par un, via un preset de _Key Commands_ :
 
 - [Télécharger le fichier Cubase-French-Azerty-Shortcuts.xml](https://github.com/TheMicronauts/Cubase-French-Azerty-Shortcuts/releases/download/v1.0.0/Cubase-French-Azerty-Shortcuts.xml)
 
@@ -44,7 +44,7 @@ Il est possible d’importer dans Cubase tous ces raccourcis en une fois, sans d
 
 Chaque nouvelle version de Cubase ajoute de nouvelles _Key Commands_, mais reste compatible avec les mêmes fichiers XML.
 
-Celui-ci a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets sont absents du fichier et devront être ajoutés manuellement le cas échéant.
+Ce preset a été créé avec Cubase 10.5 tandis que les tableaux se référent à Cubase 13. Par conséquent, un ou deux raccourcis indiqués dans le document Google Sheets sont absents du fichier et devront être ajoutés manuellement le cas échéant.
 
 Le fichier XML peut aussi être importé dans les versions antérieures. Les raccourcis non pris en charge sont simplement ignorés (testé avec Cubase 6.5 et 10).
 
