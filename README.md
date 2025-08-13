@@ -35,7 +35,7 @@ Ils sont aussi téléchargeables aux formats .xlsx et .ods.
 
 ### Preset
 
-Il est aussi possible d’importer dans Cubase tous ces raccourcis en une seule fois, sans devoir les saisir un par un :
+Il est possible d’importer dans Cubase tous ces raccourcis en une seule fois, sans devoir les saisir un par un :
 
 - [Télécharger le fichier Cubase-French-Azerty-Shortcuts.xml](https://github.com/TheMicronauts/Cubase-French-Azerty-Shortcuts/releases/download/v1.0.0/Cubase-French-Azerty-Shortcuts.xml)
 
