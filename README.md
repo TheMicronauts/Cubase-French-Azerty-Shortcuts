@@ -27,7 +27,7 @@ Deux tableaux listent les raccourcis clavier avec des présentations différente
 
 Ils sont accessibles en ligne sur ce document Google Sheets, via les onglets en bas à gauche :
 
-https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4
 
 Ils sont aussi téléchargeables aux formats .xlsx et .ods.
 
