@@ -19,13 +19,17 @@ Malheureusement, les presets proposés par Steinberg font le service minimum. Pr
 
 ### Tableaux
 
-Ce document Google Sheets liste les raccourcis clavier dans deux tableaux aux présentations différentes, accessibles via les onglets en bas à gauche :
-
-https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
+Deux tableaux listent les raccourcis clavier avec présentations différentes.
 
 - Le premier tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il reprend l’ordre du clavier et regroupe les raccourcis par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
 - Le deuxième tableau, _Fenêtre Key Commands_, est optimisé pour la saisie dans Cubase. Il reprend l’ordre de la fenêtre _Key Commands_ et la façon dont les raccourcis y sont notés. La deuxième ligne sert de légende.
+
+Ils sont accessibles en ligne sur ce document Google Sheets, via les onglets en bas à gauche :
+
+https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?usp=sharing
+
+Ils sont aussi téléchargeables aux formats .xlsx et .ods.
 
 ---
 
