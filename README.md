@@ -25,7 +25,7 @@ Deux tableaux listent les raccourcis clavier avec des présentations différente
 
 - Le deuxième tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il reprend l’ordre du clavier et regroupe les raccourcis par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
-Ils sont accessibles en ligne sur ce document Google Sheets, via les onglets en bas à gauche :
+Ces tableaux sont accessibles en ligne sur ce document Google Sheets, via les onglets en bas à gauche :
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4
 
