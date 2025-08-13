@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour la production de musique électronique (« _Key Commands_ »). Vous les trouverez dans des tableaux Google Sheets et en preset XML prêt à être importé dans le logiciel.
+Ce dépôt propose les raccourcis clavier de Cubase que je recommande à mes étudiants pour la production de musique électronique (« _Key Commands_ »). Vous les trouverez dans des tableaux à consulter en ligne ou à télécharger, et en preset XML prêt à être importé dans le logiciel.
 
 Cubase a beaucoup de qualités : très complet, une gestion du MIDI bien supérieure à la concurrence, une précision de placement au sample près, une compensation de la latence fiable.
 
