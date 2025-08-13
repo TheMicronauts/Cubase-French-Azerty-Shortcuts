@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCG
 
 ### Preset
 
-Il est possible d’importer dans Cubase tous ces raccourcis en une fois, sans devoir les saisir un par un, via un preset de _Key Commands_ :
+Il est possible d’importer dans Cubase tous ces raccourcis en une fois, sans devoir les saisir un par un, via un preset de _Key Commands_. Il suffit pour cela de :
 
 - [Télécharger le fichier Cubase-French-Azerty-Shortcuts.xml](https://github.com/TheMicronauts/Cubase-French-Azerty-Shortcuts/releases/download/v1.0.0/Cubase-French-Azerty-Shortcuts.xml)
 
