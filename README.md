@@ -19,15 +19,13 @@ Malheureusement, les presets proposés par Steinberg font le service minimum. Pr
 
 ### Tableaux
 
-Deux tableaux listent les raccourcis clavier avec des présentations différentes.
+Deux tableaux listent les raccourcis clavier avec des présentations différentes. Ils sont accessibles en ligne et téléchargeables via ce document Google Sheets (les onglets pour changer de tableau se trouvent en bas à gauche) :
+
+https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4
 
 - Le premier tableau, _Fenêtre Key Commands_, est optimisé pour la saisie dans Cubase. Il reprend l’ordre de la fenêtre _Key Commands_ et la façon dont les raccourcis y sont notés. La légende est sur la deuxième ligne.
 
 - Le deuxième tableau, _Mapping Clavier Azerty_, est optimisé pour la mémorisation. Il reprend l’ordre du clavier et regroupe les raccourcis par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
-
-Ces tableaux sont accessibles en ligne et téléchargeables via ce document Google Sheets :
-
-https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4
 
 ---
 
