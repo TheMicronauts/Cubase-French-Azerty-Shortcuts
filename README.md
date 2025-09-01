@@ -1,5 +1,5 @@
 # Cubase-French-Azerty-Shortcuts
-## Raccourcis clavier de [Cubase](https://fr.wikipedia.org/wiki/Cubase) pour clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) sous macOS
+## Raccourcis clavier de [Cubase](https://fr.wikipedia.org/wiki/Cubase) pour produire de la musique électronique, avec un clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) sous macOS
 
 ### Introduction
 
