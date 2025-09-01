@@ -5,9 +5,9 @@
 
 Ce dépôt propose les raccourcis clavier de Cubase (« _Key Commands_ ») que je recommande pour la production de musique électronique. Vous les trouverez dans des tableaux à consulter en ligne ou télécharger, et en preset XML à importer dans le logiciel.
 
-Cubase a beaucoup de qualités : très complet, une gestion du MIDI bien supérieure à la concurrence, une précision de placement au sample près, une compensation de la latence fiable.
+L’unique raison pour laquelle je produis sur Cubase est sa gestion du MIDI, plus complète, plus précise et bien supérieure à celle de la concurrence.
 
-Mais depuis son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) » : son interface mélange musique horizontale et son vertical – l’art de la production musicale et la technique du mixage (c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance, via ce qui se règle et se visualise verticalement).
+Malheureusement, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) » lors de son reboot des années 2000. Une confusion entre ce qui relève de la composition et ce qui relève du mixage aboutit à une interface qui enchevêtre musique horizontale et son vertical – c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance, via ce qui se règle et se visualise verticalement.
 
 Il en résulte un outil informatique lourd, rigide, capricieux, incohérent, qui demande une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
