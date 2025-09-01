@@ -13,7 +13,7 @@ Il en résulte un outil informatique lourd, rigide, incohérent, qui exige une a
 
 Les raccourcis clavier sont un excellent moyen de rapprocher l’outil de l’instrument.
 
-Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
+Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vous mâchera le travail.
 
 ---
 
