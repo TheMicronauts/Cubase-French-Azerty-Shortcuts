@@ -7,7 +7,7 @@ Ce dépôt propose les raccourcis clavier de Cubase (« _Key Commands_ ») que 
 
 L’unique raison pour laquelle je produis sur Cubase est sa gestion du MIDI, plus complète, plus précise et bien supérieure à celle de la concurrence.
 
-Malheureusement, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) » lors de son reboot des années 2000. Une confusion entre ce qui relève de la composition et ce qui relève du mixage aboutit à une interface qui enchevêtre et enmêle musique horizontale et son vertical – c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance sonore, via ce qui se visualise et se règle verticalement sur une console de mixage.
+Malheureusement, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) » lors de son reboot des années 2000. Une confusion entre ce qui relève de la composition et ce qui relève du mixage aboutit à une interface qui enchevêtre et emmêle musique horizontale et son vertical – c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance sonore, via ce qui se visualise et se règle verticalement sur une console de mixage.
 
 Il en résulte un outil informatique lourd, rigide, incohérent, qui se dresse en permanence en travers du chemin et exige une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
