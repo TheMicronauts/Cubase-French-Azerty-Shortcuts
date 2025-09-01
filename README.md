@@ -23,9 +23,9 @@ Les raccourcis clavier sont notés sur deux tableaux, chacun offrant une présen
 
 https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4
 
-- Le tableau _Fenêtre Key Commands_ est optimisé pour la saisie dans Cubase. Il reprend l’ordre de la fenêtre _Key Commands_ et la façon dont les raccourcis y sont notés. La légende se trouve sur la deuxième ligne.
+- Le tableau _[Fenêtre Key Commands](https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?gid=0)_ est optimisé pour la saisie dans Cubase. Il reprend l’ordre de la fenêtre _Key Commands_ et la façon dont les raccourcis y sont notés. La légende se trouve sur la deuxième ligne.
 
-- Le tableau _Mapping Clavier Azerty_ est optimisé pour la mémorisation. Il reprend l’ordre du clavier et regroupe les raccourcis par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
+- Le tableau _[Mapping Clavier Azerty](https://docs.google.com/spreadsheets/d/1gC02NLNjDQHW8Q47bPoo8kpMkJnirxTmAqoKUOCGSd4/edit?gid=753362515)_ est optimisé pour la mémorisation. Il reprend l’ordre du clavier et regroupe les raccourcis par touche de modification. Le code couleur est expliqué en légende, dans le cadre en bas à droite.
 
 ---
 
