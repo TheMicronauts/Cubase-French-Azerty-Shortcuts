@@ -9,7 +9,7 @@ La principale raison pour laquelle je produis avec ce séquenceur audionumériqu
 
 Mais lors de son reboot des années 2000, Cubase est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) ». Une confusion entre ce qui relève de la composition et ce qui relève du mixage se traduit par une interface qui enchevêtre et emmêle musique horizontale et son vertical — c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance sonore, via ce qui se visualise et se règle verticalement sur une console de mixage.
 
-Il en résulte un outil informatique lourd, rigide, incohérent, qui se dresse souvent en travers du chemin et exige une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
+Il en résulte un outil informatique lourd, rigide, incohérent et imprévisible, qui se dresse souvent en travers du chemin et exige une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
 En dynamitant certains obstacles, les raccourcis clavier sont un excellent moyen de rapprocher l’outil de l’instrument.
 
