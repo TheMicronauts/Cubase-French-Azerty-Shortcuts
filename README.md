@@ -16,7 +16,7 @@ En dynamitant certains obstacles, les raccourcis clavier sont un excellent moyen
 Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
 
 ![Metastasis_2022-05-31_gris_AtAc_GaussianNoise2%composite](https://github.com/user-attachments/assets/b9024ce7-652e-47f2-aa44-8f6089ccf883)
-*Iannis Xenakis imagine dès 1954 le concept des rubans d’automation, qui sont par conséquent un élément de la partition*
+*Iannis Xenakis imagine dès 1954 le concept des rubans d’automation pour la partition de [Metastasis](https://fr.wikipedia.org/wiki/Metastasis_(Iannis_Xenakis))*
 
 ---
 
