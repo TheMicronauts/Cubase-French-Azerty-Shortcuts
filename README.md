@@ -3,15 +3,15 @@
 
 ### Introduction
 
-Ce dépôt GitHub propose les raccourcis clavier (« _Key Commands_ ») que je recommande pour la production de musique électronique. Vous les trouverez dans des tableaux à consulter en ligne ou télécharger, et en preset XML à ouvrir depuis le logiciel.
+Ce dépôt GitHub propose les raccourcis clavier (« _Key Commands_ ») que je recommande pour la production de musique électronique avec Cubase. Vous les trouverez dans des tableaux à consulter en ligne ou télécharger, et en preset XML à ouvrir depuis le logiciel.
 
 La principale raison pour laquelle je produis sur Cubase est sa gestion du MIDI, plus complète, plus précise, supérieure en tout à celle de la concurrence.
 
-Malheureusement, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) » lors de son reboot des années 2000. Une confusion entre ce qui relève de la composition et ce qui relève du mixage se traduit par une interface qui enchevêtre et emmêle musique horizontale et son vertical — c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance sonore, via ce qui se visualise et se règle verticalement sur une console de mixage.
+Mais lors de son reboot des années 2000, ce séquenceur audionumérique est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) ». Une confusion entre ce qui relève de la composition et ce qui relève du mixage se traduit par une interface qui enchevêtre et emmêle musique horizontale et son vertical — c’est-à-dire la gestion du temps, via ce qui s’écrit et s’enregistre sur une timeline, et la gestion de la balance sonore, via ce qui se visualise et se règle verticalement sur une console de mixage.
 
 Il en résulte un outil informatique lourd, rigide, incohérent, qui se dresse en permanence en travers du chemin et exige une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier.
 
-En dynamitant certains obstacles, les raccourcis clavier sont un excellent moyen de rapprocher l’outil de l’instrument.
+En dynamitant certains obstacles et en rendant à Cubase un peu de sa réactivité originelle, les raccourcis clavier sont un excellent moyen de rapprocher l’outil de l’instrument.
 
 Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
 
