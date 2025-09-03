@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Ce dépôt GitHub propose les raccourcis clavier que je recommande pour la production de musique électronique avec Cubase (« _Key Commands_ »). Vous les trouverez dans des tableaux à consulter en ligne ou télécharger, et en preset XML à ouvrir depuis le logiciel.
+Ce dépôt GitHub propose les raccourcis clavier que je recommande pour la production de musique électronique avec Cubase (« _Key Commands_ »). Vous les trouverez réunis sur des tableaux à consulter en ligne ou à télécharger, et en preset XML à ouvrir depuis le logiciel.
 
 La principale raison pour laquelle je produis avec ce séquenceur audionumérique est sa gestion du MIDI, plus complète, plus précise, supérieure en tout à celle de la concurrence.
 
