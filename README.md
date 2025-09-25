@@ -3,7 +3,7 @@
 
 *Abstract in English:      
 This GitHub repo shares the Cubase “Key Commands” I recommend to my students, tailored for AZERTY keyboards on macOS. They are available both as reference tables (online or downloadable) and as an XML preset importable directly into the software.       
-I use Cubase primarily because of its MIDI implementation, which is superior to competing solutions. Yet, since its 2000s reboot, Cubase has grown wonky. Its interface reflects a confusion between two distinct concerns of music creation: composition and mixing. In practice, this tangles “horizontal music” (positioning of MIDI, native events, and recordings on a timeline) with “vertical sound” (balancing sounds with a mixing console).          
+I use Cubase primarily because of its MIDI implementation, which is superior to competing solutions. Yet, since its 2000s reboot, Cubase has grown wonky. Its interface reflects a confusion between two distinct concerns of music creation: composition and mixing. In practice, this tangles “horizontal music” (positioning of MIDI, native events, and recordings on a timeline) with “vertical sound” (balancing sonic space with a mixing console).          
 The result is a tool that often obstructs the workflow. This sharply contrasts with the ideal of a musical instrument, which disappears in the player’s hands. Genuine instrument makers (“luthiers”) actively combat inefficiencies, since they drain cognitive and physical resources that are consequently lost to the art.       
 By working around problematic interfaces, keyboard shortcuts effectively bring software closer to the experience of an instrument.*
 
