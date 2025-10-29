@@ -13,7 +13,7 @@ Ce dépôt GitHub propose les raccourcis clavier que je recommande à mes élèv
 
 La principale raison pour laquelle je produis avec ce séquenceur audionumérique est sa gestion du MIDI, supérieure en tout à celle de la concurrence.
 
-Mais lors de son reboot des années 2000, Cubase est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) ». Une confusion entre ce qui relève de la composition et ce qui relève du mixage se traduit par une interface qui enchevêtre et emmêle « musique horizontale » (évènements MIDI ou natifs et enregistrements positionnés sur une timeline) et « son vertical » (réglages gérés et visualisés sur une console de mixage) — c’est-à-dire la gestion du temps et la gestion du spectre des fréquences.
+Mais lors de son reboot des années 2000, Cubase est devenu « [wonky](https://www.linkedin.com/posts/pavel-samsonov-44ba2833_trying-to-improve-the-wrong-dimension-of-activity-7178479192555077633-4NVo) ». Une confusion entre ce qui relève de la composition et ce qui relève du mixage se traduit par une interface qui enchevêtre et emmêle « musique horizontale » (évènements MIDI ou natifs et enregistrements positionnés sur une timeline) et « son vertical » (réglages gérés et visualisés sur une console de mixage) — c’est-à-dire la gestion du temps et la balance des fréquences.
 
 Il en résulte un outil informatique qui se dresse souvent en travers du chemin et exige une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier (les luthiers éliminent les inefficacités car elles détournent des neurones et font consommer des calories, qui sont alors perdus pour l’art).
 
