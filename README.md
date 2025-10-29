@@ -17,7 +17,7 @@ Mais lors de son reboot des années 2000, Cubase est devenu « [wonky](https://w
 
 Il en résulte un outil informatique qui se dresse souvent en travers du chemin et exige une attention de tous les instants, à l’opposé de l’idéal de l’instrument de musique, qui se fait oublier (les luthiers éliminent les inefficacités car elles détournent des neurones et font consommer des calories, qui sont alors perdus pour l’art).
 
-En contournant certains obstacles, les raccourcis clavier sont un excellent moyen de rapprocher l’outil de l’instrument.
+En contournant certains obstacles de l’interface, les raccourcis clavier sont un excellent moyen de rapprocher l’outil de l’instrument.
 
 Malheureusement, les presets proposés par Steinberg font le service minimum. Prendre le temps de choisir, programmer et apprendre par cœur des raccourcis mieux adaptés change véritablement la vie. Ce dépôt vise à vous mâcher le travail.
 
