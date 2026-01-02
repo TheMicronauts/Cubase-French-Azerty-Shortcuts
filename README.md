@@ -2,14 +2,14 @@
 ## Raccourcis clavier de [Cubase](https://fr.wikipedia.org/wiki/Cubase) pour produire de la musique électronique, avec un clavier [AZERTY](https://fr.wikipedia.org/wiki/AZERTY) sous macOS
 
 *Abstract in English:      
-This GitHub repo shares the Cubase “Key Commands” I recommend to my students, tailored for AZERTY keyboards on macOS. They are available both as reference tables (online or downloadable) and as an XML preset importable directly into the software.   
+This GitHub repo shares the Cubase “Key Commands” I recommend to electronic music producers, tailored for AZERTY keyboards on macOS. They are available both as reference tables (online or downloadable) and as an XML preset importable directly into the software.   
 I use Cubase primarily because of its MIDI implementation, which is superior to competing solutions. Yet, since its 2000s reboot, Cubase has grown wonky. Its interface reflects a confusion between two distinct concerns of music production: composition and mixing. In practice, this tangles “horizontal music” (positioning of MIDI, native events, and recordings on a timeline) with “vertical sound” (balancing the frequency spectrum with a mixing console).   
 The result is a tool that frequently gets in the way and demands constant attention, unlike a musical instrument, which is meant to disappear from awareness (genuine instrument makers—luthiers—actively combat inefficiencies, since they drain cognitive and physical resources that are consequently lost to the art).   
 By working around certain interface obstacles, keyboard shortcuts become an effective way to bring the tool closer to the experience of an instrument.*
 
 ### Introduction
 
-Ce dépôt GitHub propose les raccourcis clavier que je recommande à mes élèves pour la production de musique électronique avec Cubase (« _Key Commands_ »). Vous les trouverez réunis sur des tableaux à consulter en ligne ou à télécharger, et en preset XML à ouvrir depuis le logiciel.
+Ce dépôt GitHub propose les raccourcis clavier que je recommande pour la production de musique électronique avec Cubase (« _Key Commands_ »). Vous les trouverez réunis sur des tableaux à consulter en ligne ou à télécharger, et en preset XML à ouvrir depuis le logiciel.
 
 La principale raison pour laquelle je produis avec ce séquenceur audionumérique est sa gestion du MIDI, supérieure en tout à celle de la concurrence.
 
